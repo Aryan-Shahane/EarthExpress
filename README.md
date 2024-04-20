@@ -1,7 +1,7 @@
 ---
 
 ## Inspiration
-Our inspiration for Earth Express stemmed from a deep desire to transform the travel industry into a force for good. We were driven by the need to address the environmental impact of traditional travel and create a platform that empowers travelers to make eco-conscious choices without sacrificing convenience or quality.
+The inspiration for Earth Express stemmed from a deep desire to transform the travel industry into a force for good. We were driven by the need to address the environmental impact of traditional travel and create a platform that empowers travelers to make eco-conscious choices without sacrificing convenience or quality.
 
 ## What it does
 Earth Express is an AI-powered platform that provides personalized travel recommendations, prioritizing eco-friendly options at every stage of the journey. It offers users a seamless experience, from selecting sustainable transportation and accommodations to suggesting low-impact activities and dining options. Our platform aims to make sustainable travel accessible and hassle-free for all, fostering a global community of responsible travelers along the way.
